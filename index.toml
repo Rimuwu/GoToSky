@@ -1009,10 +1009,6 @@ file = "overrides/config/CSC/Data/variables.data"
 hash = "f74e4c498acfeae4a9ef68f93ea42e1c39373e5e6ff1775f16b8de5a956e6fbb"
 
 [[files]]
-file = "overrides/config/CSC/Log/CSC_Record.log"
-hash = "c90011573c0116ac0723ae081c334ef1ba1f3962e0cdeac0e20a1879aad8e67f"
-
-[[files]]
 file = "overrides/config/CSC/config.toml"
 hash = "f24b06786433ae26c494d798e8db4edde313aebed683e8945a6d361ac54ecd2a"
 
@@ -1121,20 +1117,12 @@ file = "overrides/config/balm-common.toml"
 hash = "9923b77b07293c6ae5363fde993daa3597423ded51756528d2830c01a5f716ea"
 
 [[files]]
-file = "overrides/config/bcc-common.toml"
-hash = "ee5eb4c81dccc6471f513fdb1d67944d7b465bb7f59d441edbed0d42637916b7"
-
-[[files]]
 file = "overrides/config/better_lib/common.json"
 hash = "beb6fe58c56f2e0179c9738228260e6bcaba754b1effb5a83b41d82e66611cd4"
 
 [[files]]
 file = "overrides/config/bhmenu-client-1.toml.bak"
 hash = "9bb5a47b58553b1b0caab3f63dd2c3b20b2c1d0c32123a6730e103ddf5b0e95b"
-
-[[files]]
-file = "overrides/config/bhmenu-client.toml"
-hash = "feca40209c38e4bc10b263e9464d3f82b127e04cc8f33d84db84e271d3c61a88"
 
 [[files]]
 file = "overrides/config/biomemusic.json"
@@ -1239,10 +1227,6 @@ hash = "3a2e328d298b0ef379673beffa566eda2d92b4f1d0e00425573b59f0ea66e646"
 [[files]]
 file = "overrides/config/corpse-server.toml"
 hash = "806dc2002f95b1bcd16dec843051abc513576a1986ea1931d8c2cc82aef201c7"
-
-[[files]]
-file = "overrides/config/crash_assistant/config.toml"
-hash = "e7d396c19b7d66deb216b394ffeac68d20389deddc4c600e658cfeafd4ea6f77"
 
 [[files]]
 file = "overrides/config/crash_assistant/modlist.json"
@@ -1709,10 +1693,6 @@ file = "overrides/config/euphoria_patcher/settings.toml"
 hash = "51804b29b4e69931eea7729ec75c9e696d2a7a3e43ec7dd339290da24047abb3"
 
 [[files]]
-file = "overrides/config/fabric/indigo-renderer.properties"
-hash = "efa6d8183b6aeab401576544ca9fb373255e825d06d502ecafbfcfb4bab77e7f"
-
-[[files]]
 file = "overrides/config/fancymenu/assets/bg.png"
 hash = "bca3e6a8e02983c962189b076a087b49a88adec40016d1c4f6105edf5a6d866d"
 
@@ -1825,14 +1805,6 @@ file = "overrides/config/ferritecore-mixin.toml"
 hash = "949598a74966422d8d35610321eb09d789802804d3f0114be17b2f10f70905e8"
 
 [[files]]
-file = "overrides/config/fluid-common-1.toml.bak"
-hash = "ad16d2b88e4358460e90b7fe8c96eba7740a7f0d623239af70af60481a0c8626"
-
-[[files]]
-file = "overrides/config/fluid-common.toml"
-hash = "6193366fb8b2a482bcd057d7087d04cdbcae9742939e1d8e3ec0fac6cb0ef27a"
-
-[[files]]
 file = "overrides/config/fluid-stressValues.v1.toml"
 hash = "6973f9a6bd154129687170748c4a05363f4e616a4a4a5e70967e38b754dbba33"
 
@@ -1855,10 +1827,6 @@ hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 [[files]]
 file = "overrides/config/ftblibrary-client.snbt"
 hash = "4a98161835ae188156dbc1f1015287c0c17aa91db082a083ba6a505de99923f1"
-
-[[files]]
-file = "overrides/config/ftbqt-cache.json"
-hash = "25369ff69b8103e877e6d9e3d5508e1dfcb2cbebeae6187423be8327fb2c9c81"
 
 [[files]]
 file = "overrides/config/ftbquests-client.snbt"
@@ -1945,10 +1913,6 @@ file = "overrides/config/ftbquests/quests/data.snbt"
 hash = "0c14fb49e0d969656140429dd564e46ab68af26821b420b2ada7741d184973c9"
 
 [[files]]
-file = "overrides/config/ftbquests/quests/lang/en_us.snbt"
-hash = "9e9f7723a08443f5b64d1005c7440e1484870b549244c6cd388b25421aed5851"
-
-[[files]]
 file = "overrides/config/ftbquests/quests/reward_tables/create.snbt"
 hash = "49fe7dfa067801d955ffb7f807b34d3355e5f44ee6d9f1d74062c01bd0f49174"
 
@@ -1959,14 +1923,6 @@ hash = "de546551ee51765af5589bb5353e90557c018d9a2b936ee860836b242b882bf1"
 [[files]]
 file = "overrides/config/ftbquests/quests/reward_tables/xp.snbt"
 hash = "147faa5ecd204e37bf2358e2b7ab4861e47677668680123b267334683035abc7"
-
-[[files]]
-file = "overrides/config/ftbquesttransl-client-1.toml.bak"
-hash = "5d0d12e24c7b25388b4678dfee1ef8274118596607078d89695fbdd61fcb0e1a"
-
-[[files]]
-file = "overrides/config/ftbquesttransl-client.toml"
-hash = "82d736663aee2f1484dfea93e8137fe7e46ec4c39e9292b83b6c2bc132a83c53"
 
 [[files]]
 file = "overrides/config/ftbteams-server.snbt"
@@ -2021,20 +1977,8 @@ file = "overrides/config/integrated_villages-neoforge-1_21.toml"
 hash = "18b1d78a928ea08b4545368e87f4ea4656a79f083a3ec7512b5e7d8cd37700d6"
 
 [[files]]
-file = "overrides/config/inventoryessentials-common-1.toml.bak"
-hash = "33d1702a2b346c8d20a77542b2cf1336636dee74c7f73cdb3c64cac80dbaf0d9"
-
-[[files]]
-file = "overrides/config/inventoryessentials-common.toml"
-hash = "33b65ac14d6f5e6c4cb7179c944da8f057267f95f338602daecaa1c3e294d357"
-
-[[files]]
 file = "overrides/config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
-
-[[files]]
-file = "overrides/config/iris.properties"
-hash = "a775a732fb6e4b7f8c0ffb22bfb6f0eba4ec8acc90ed442b662e5741fbf6ebee"
 
 [[files]]
 file = "overrides/config/item_obliterator.json5"
@@ -2277,10 +2221,6 @@ file = "overrides/config/openpartiesandclaims-server.toml"
 hash = "930402aab306d7140de894d8f6f713557197e3fdeb8b69882e70fa89815e5087"
 
 [[files]]
-file = "overrides/config/packetfixer.properties"
-hash = "bfd29a2dfba6fc32683bbe1f119a0ecb364c5e7040d067e4a0636df978386e2c"
-
-[[files]]
 file = "overrides/config/patchouli-client.toml"
 hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
 
@@ -2443,10 +2383,6 @@ hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
 [[files]]
 file = "overrides/config/simple-rpc/server-entries.toml"
 hash = "c0f805a22438339d68aacf46339f6f9d47cd9737ab0a6e4c8af3b772f7028849"
-
-[[files]]
-file = "overrides/config/simple-rpc/simple-rpc.legacy"
-hash = "310cc34496c710000d05a8340a9037ac3ffab0cd67edfb4705959eb5272db5cf"
 
 [[files]]
 file = "overrides/config/simple-rpc/simple-rpc.toml"

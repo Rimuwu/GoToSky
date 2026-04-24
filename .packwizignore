@@ -1,3 +1,25 @@
 README.md
 add-packwiz-mods.ps1
 add-packwiz-mods.py
+
+# Логи
+CSC/Log/CSC_Record.log
+
+# Кэши которые игра перезаписывает
+ftbqt-cache.json
+simple-rpc/simple-rpc.legacy
+
+# Пользовательские настройки (каждый настраивает сам)
+iris.properties
+bhmenu-client.toml
+bcc-common.toml
+fluid-common.toml
+fluid-common-1.toml.bak
+ftbquesttransl-client.toml
+ftbquesttransl-client-1.toml.bak
+inventoryessentials-common.toml
+inventoryessentials-common-1.toml.bak
+packetfixer.properties
+fabric/indigo-renderer.properties
+crash_assistant/config.toml
+en_us.snbt
