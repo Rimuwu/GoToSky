@@ -23,3 +23,5 @@ packetfixer.properties
 fabric/indigo-renderer.properties
 crash_assistant/config.toml
 en_us.snbt
+
+overrides/**
