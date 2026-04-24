@@ -2,15 +2,3 @@ README.md
 add-packwiz-mods.ps1
 add-packwiz-mods.py
 
-# User-specific and runtime files
-*.log
-*.tmp
-*.bak
-*.old
-*.cache
-*.db
-*.sqlite
-*.pyc
-__pycache__/
-.DS_Store
-Thumbs.db
