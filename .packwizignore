@@ -14,13 +14,3 @@ add-packwiz-mods.py
 __pycache__/
 .DS_Store
 Thumbs.db
-
-# Ignore generated config files and runtime override data
-overrides/config/**
-*.properties
-*.cfg
-*.json
-*.snbt
-*.jexl
-*.ini
-*.txt
