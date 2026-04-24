@@ -1844,10 +1844,6 @@ hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
-file = "mods/bwncr-neoforge-1.21.1-3.20.3.jar"
-hash = "2d506ec61d802feef2a03279f73a9528372af6ae5d0ec04ea8677cebaabfe6af"
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
@@ -2533,10 +2529,6 @@ hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
 metafile = true
 
 [[files]]
-file = "mods/notenoughanimations-neoforge-1.12.0-mc1.21.1.jar"
-hash = "1c9fc96bc22c094ab3f0f9c009913a3b95064ad36f285113d205cf2004afd499"
-
-[[files]]
 file = "mods/open-parties-and-claims-pvp-support.pw.toml"
 hash = "3c95f896368bb85ea26ff7930a3c8916b76847d59f1f434c6150885b56600131"
 metafile = true
@@ -2760,6 +2752,14 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "dd9eb796545bbc04a65a67224095336c360b6a7733767283215abc201d0c1ecf"
 metafile = true
+
+[[files]]
+file = "overrides/mods/bwncr-neoforge-1.21.1-3.20.3.jar"
+hash = "2d506ec61d802feef2a03279f73a9528372af6ae5d0ec04ea8677cebaabfe6af"
+
+[[files]]
+file = "overrides/mods/notenoughanimations-neoforge-1.12.0-mc1.21.1.jar"
+hash = "1c9fc96bc22c094ab3f0f9c009913a3b95064ad36f285113d205cf2004afd499"
 
 [[files]]
 file = "resourcepacks/all-of-create-core.pw.toml"
