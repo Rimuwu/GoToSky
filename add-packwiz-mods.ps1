@@ -1,5 +1,5 @@
 # Auto-generated packwiz import script
-cd "C:/Users/AS1/AppData/Roaming/PrismLauncher/instances/GoToSky Base/modpack"
+cd "C:/Users/AS1/Desktop/GoToSky/modpack"
 packwiz curseforge add "https://www.curseforge.com/minecraft/mc-mods/netherportalfix" -y
 packwiz curseforge add "https://www.curseforge.com/minecraft/mc-mods/sodium" -y
 packwiz curseforge add "https://www.curseforge.com/minecraft/mc-mods/create-optical" -y

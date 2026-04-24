@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
+metafile = true
+
+[[files]]
+file = "complementary-unbound.pw.toml"
+hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "4d390d60d7925cbc8e363d1d93fbc378e51ab95313bcdbede86f8c7996e42eb3"
 metafile = true
@@ -33,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/backpacked.pw.toml"
 hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "659cb9b5dd11ba095c87c3dc7d970ee93a3c2e86b8c5695c7c57c3b54a981f38"
 metafile = true
 
 [[files]]
@@ -112,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "6068e9dba7098eb69fc84c96b4e734daa6493c3ee6817c9ec4e6d8e62d93cb1b"
 metafile = true
 
 [[files]]
@@ -127,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "dc6adf5804d410e8941312e75b8dce731d66aa00255f5b4ed48113da03c97730"
+hash = "357f91abe964a74450fb553fe1506c0d9f70044a1819740a818d746817cf7508"
 metafile = true
 
 [[files]]
@@ -467,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "40c25efbb69e526bd84e17da231501efbdea1305adc7ab27c3601971aebb1308"
+hash = "f84cd5fbbb8d9fb85e0dfabd6120dc583393a97d22d6c3ecb7f21ed9e830434f"
 metafile = true
 
 [[files]]
@@ -707,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "9a25a0e1c3349cf25b45216932fffb2678d5d085f46ce5c420c3514b86142b90"
+hash = "5865b4d7d291bfeee5ea36f458c21d236460ef49ffee96491dfbff73006a0f34"
 metafile = true
 
 [[files]]
@@ -763,6 +778,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "97333b5d297e656725653bc86b3c8238367cc71d223fe7a2b40aab4e3ce6104a"
 metafile = true
 
 [[files]]
@@ -857,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "8f3670cd178c82927b7fb0bda8a086d857fb3f0ba6b8c6d3b41ab11915bc8c67"
+hash = "729d9a0385effcabf449645c8cefbe3001d4e4da8aa79e6279cde2278447ca5f"
 metafile = true
 
 [[files]]
@@ -995,5 +1015,134 @@ file = "overrides/mods/bwncr-neoforge-1.21.1-3.20.4.jar"
 hash = "a29a48365871fe95cabf0a1127136bba8584da6802386bf1bb81d893fd01b614"
 
 [[files]]
+file = "overrides/mods/create-aeronautics-bundled-1.21.1-1.1.3.jar"
+hash = "a182241a0254e22d32f537f397dd17c7d8729a027cda6915b698623bbacc1243"
+
+[[files]]
 file = "overrides/mods/notenoughanimations-neoforge-1.12.0-mc1.21.1.jar"
 hash = "1c9fc96bc22c094ab3f0f9c009913a3b95064ad36f285113d205cf2004afd499"
+
+[[files]]
+file = "resourcepacks/all-of-create-core.pw.toml"
+hash = "a35e8271cc55060e41ee47ff99475ebfd52508b408a7deb353e735d44b2b09ba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/boatload-zh-hk-translation.pw.toml"
+hash = "3c94935dfd9d9b3c4ea335b1e3f9c59560ca7608f0475996fe2ea121fa9c4f1d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-advancement-plagues.pw.toml"
+hash = "e0d46a6860391479e5287eca376c0327d7e818702812cb8419ecf0e1e9686432"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-blaze-burner-fuels-zh-hk-translation.pw.toml"
+hash = "f39d99a73234a80d581ab188d325a820055a10941d79ff0114c42503e8cdc2e1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-chocolate-fountain-zh-hk-translation.pw.toml"
+hash = "7e33af7e36e9b9095868c1b72d25db47aa7c5a7edfd891ec73df7474f99082ef"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-data-pack.pw.toml"
+hash = "22a5f14d3812e9b51ba33496d0bb685325dd7969c70ca13445c0622cd0dd5626"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
+hash = "b813f2597b3186c64d29ac596129f49161a2457d43a211f51b5f2daedaf6bd3d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-more-package-couriers-zh-hk-translation.pw.toml"
+hash = "874837d2fe1799f0bba70525241bf245ceae0c695b0905656b1ee28b2612fb7a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-pattern-schematics-zh-hk-translation.pw.toml"
+hash = "4cbd9723990e5b9e54f8cbc803eee480b3ac081f4c6b27a92467d6aa03d708ad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-quests.pw.toml"
+hash = "a79cb2f16979c2ea1c4ff53a0a49af59b69e5add50c1169aca7fc4f5480d8e6c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-slice-dice-zh-hk-translation.pw.toml"
+hash = "64d3fbef79d6d1ed5fe62b6940fe4835112da22eabb89719b214b85d6e983ac6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-stuff-n-additions-zh-hk-translation.pw.toml"
+hash = "dd2e5ac07ccd15a446514bef572e94413b14c8d44e7ce7293fd600e6251a57ce"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-hopper.pw.toml"
+hash = "374fc3b531d1cff3d9dcafc73103797e44c5e27bce2ab414fab2695bde9d9284"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-touch-ups.pw.toml"
+hash = "1de28a6963cf2ab88c1819f73bb8aba04f71ba6a154c86efaf6c4a23b373e841"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-trading-floor-zh-hk-translation.pw.toml"
+hash = "7bd7dd0ddc2800e2418012cb72340266b581e6148341cd60d23f74c3e1af12ac"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-train-parts-zh-hk-translation.pw.toml"
+hash = "1ec2d8c42c6fadc07deadfb7e8e42af253a112cf9470b86114854fded7632eac"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-transmission-zh-hk-translation.pw.toml"
+hash = "fc7ba675c5895b235cb781eac10c4bde05a22f03af6ddea265cd14b2db6b6251"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-ui.pw.toml"
+hash = "778562a4a5bfc44b08822061f4b9c3f277b18d7c03872f633f8441fc4302b463"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-vibrant-vaults-zh-hk-translation.pw.toml"
+hash = "13132b35256876f3b0ac057dd6003f9adc209d22c94eea6d0f583f0502fe2955"
+metafile = true
+
+[[files]]
+file = "resourcepacks/createquestingunofficialzhhktranslation.pw.toml"
+hash = "c380f5587fb7952b05f267cda2f0d8e247b975a1ec468812495116a9f6090a82"
+metafile = true
+
+[[files]]
+file = "resourcepacks/createtweakedcontrollerunofficialzhhk.pw.toml"
+hash = "bfc1cd9691da2338df3e5d15d2ce2bac6cf554329163188dbdae97add946c2f8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gui-retextures.pw.toml"
+hash = "2e4b8a6db38a6ded2149888b0161e1dd29e6ac850d94d61a12368bb55419be3d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/handcraftedunofficialzhhktranslation.pw.toml"
+hash = "178998fc05ef6597cd8ca2b43155665be86891c859ece63cb3c5c03ab476e4bd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/idas-unofficialzhhktranslation.pw.toml"
+hash = "66c7f2394cca19d251e55df69fae8fb7ba12a4366ddd6afa7249aeec1d209f50"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tradingpostzhhktranslation.pw.toml"
+hash = "65028c11384c624c0771b7ac39257822a7cd6f3830c524fcbd5723b6f9a27a32"
+metafile = true
