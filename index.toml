@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "add-packwiz-mods.ps1"
-hash = "d800fe21fcbde7ba826086e355211deb24a8a2949477a3d380ebed21717ccd7d"
-
-[[files]]
-file = "add-packwiz-mods.py"
-hash = "7d65246e5d7f5964cf3cb3a460eabf888d4afb5423451662a768c21a5585d2ea"
-
-[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
 metafile = true
