@@ -67,10 +67,6 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
-
-[[files]]
 file = "config/advancedcrafting-common.toml"
 hash = "99183a43f009eb0158aba5f1d69130c34dc1e98f717fe67c4c3eab322ca18562"
 
@@ -257,10 +253,6 @@ hash = "806dc2002f95b1bcd16dec843051abc513576a1986ea1931d8c2cc82aef201c7"
 [[files]]
 file = "config/crash_assistant/config.toml"
 hash = "e7d396c19b7d66deb216b394ffeac68d20389deddc4c600e658cfeafd4ea6f77"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
-hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
