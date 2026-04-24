@@ -203,10 +203,6 @@ file = "config/buzzier_bees-common.toml"
 hash = "4bae7b08380558f4e00f45f9862e6cbfee07a199b5fc2123c112e965fbb65274"
 
 [[files]]
-file = "config/bwncr-common.toml"
-hash = "a8d9256245e6a4a9ef9cd19db22432e7dccf447fa7ba803a70ebd23624e7d21b"
-
-[[files]]
 file = "config/ccl.cfg"
 hash = "7ea96c71ef15522cdcaec7bafdc73fc7cfaa2d6398342d8f447b94906f14e97d"
 
@@ -1794,11 +1790,6 @@ hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "659cb9b5dd11ba095c87c3dc7d970ee93a3c2e86b8c5695c7c57c3b54a981f38"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
 metafile = true
@@ -2752,10 +2743,6 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "dd9eb796545bbc04a65a67224095336c360b6a7733767283215abc201d0c1ecf"
 metafile = true
-
-[[files]]
-file = "overrides/mods/bwncr-neoforge-1.21.1-3.20.3.jar"
-hash = "2d506ec61d802feef2a03279f73a9528372af6ae5d0ec04ea8677cebaabfe6af"
 
 [[files]]
 file = "overrides/mods/notenoughanimations-neoforge-1.12.0-mc1.21.1.jar"
