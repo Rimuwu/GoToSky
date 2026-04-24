@@ -1,0 +1,13 @@
+name = "GoToSky!"
+author = "AS1AW"
+version = "1.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e9adab275226f24c847088b0e4c47c20b2950f003c91060eefe3a14b8143c584"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.221"

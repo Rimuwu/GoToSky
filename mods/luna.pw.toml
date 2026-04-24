@@ -1,0 +1,13 @@
+name = "Luna"
+filename = "luna_minecraft-neoforge-5.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44a900cf58cf4ab6842bb1f778a7e90ac53aff81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6599108
+project-id = 880620

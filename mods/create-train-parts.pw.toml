@@ -1,0 +1,13 @@
+name = "Create Train Parts"
+filename = "create_train_parts-0.3.6-1.21.1-6.0.9-216.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9375e43d82fed97ece089dc460c7c46bba351af3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7566693
+project-id = 1294279

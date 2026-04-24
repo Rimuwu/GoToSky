@@ -1,0 +1,13 @@
+name = "Does It Tick?"
+filename = "does_it_tick-neoforge-1.1.4-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3db67950c701d756913f6f53c7a04316fe0bf2d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6353650
+project-id = 543308
