@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
-metafile = true
-
-[[files]]
 file = "config/CSC/CSC_Warn.log"
 hash = "850852fbaec4e27131a71170162866b484a5115fa176dab3dab166d525637c08"
 

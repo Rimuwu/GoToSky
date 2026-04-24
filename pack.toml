@@ -1,12 +1,12 @@
 name = "GoToSky!"
 author = "AS1AW"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e8ee785ce62cf679aa335fd00501e1a9cc7ff55fa549fe48f8588b794606021d"
+hash = "2c3d7ec819e4f115b972fbf16efed65de8778fe0c9f83aab05c57236ce37727b"
 
 [versions]
 minecraft = "1.21.1"
