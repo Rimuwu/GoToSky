@@ -55,19 +55,6 @@
   "create_mobile_packages": {
     "bee_port": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
-  "jadeaddons.create": {
-    "filter": true,
-    "backtank_capacity": true,
-    "goggles.requires_goggles": true,
-    "goggles": false,
-    "blaze_burner": true,
-    "exact_block": true,
-    "goggles.detailed": false,
-    "placard": true
-  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -77,11 +64,6 @@
   },
   "ftbquests": {
     "barrier": true
-  },
-  "toms_storage": {
-    "inventory_hopper": true,
-    "inventory_config": true,
-    "inventory_connector": true
   },
   "supplementaries": {
     "hat_stand": true

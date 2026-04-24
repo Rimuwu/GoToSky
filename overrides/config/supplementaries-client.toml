@@ -158,10 +158,10 @@
 	placeable_tooltips = true
 	#Enables custom Configured config screen
 	custom_configured_screen = true
+	#unfunny
+	"I am very boring" = false
 	#Allowed Values: ALWAYS, CACHED, CACHED_ZIPPED, NEVER
 	dynamic_assets_generation_mode = "CACHED"
-	#unfunny
-	"I am very boring and I don't want any Easter Egg" = false
 
 #Game tweaks
 [tweaks]

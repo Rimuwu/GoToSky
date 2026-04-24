@@ -1,5 +1,5 @@
 var allMods = ModListUtils.getCurrentModList(true);
-var mods = ModListUtils.getCurrentModListMappedToModId();
+var mods = allMods.stream().toMap(m -> m.modId, m -> m);
 
 var m_essential = mods.get("essential");
 if (m_essential != null) {
